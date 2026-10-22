@@ -1,0 +1,23 @@
+# Virtual env
+venv/
+.venv/
+ENV/
+
+# Jupyter Notebook chekpoints
+.ipynb_checkpoints/
+**/pycache/
+*.py[cod]
+
+# System files and IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+#
+data/
+*.csv
+
+# Models
+models/
+*.log
